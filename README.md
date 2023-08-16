@@ -61,7 +61,3 @@ Jest will execute the tests and display the results.
 ## Troubleshooting
 
 If you encounter any issues while setting up or running the script, feel free to create an issue in this repository.
-
----
-
-Please note that this README assumes a basic level of familiarity with using the terminal/command prompt. You can tailor the README to your project's structure and provide more detailed instructions if needed.
